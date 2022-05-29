@@ -1,6 +1,6 @@
-#PROGRAMA EN C++ DE ALISSON CHILA&hearts;
+**PROGRAMA EN C++ DE ALISSON CHILA&hearts;**
 
-#**INFORMACIÓN DEL AUTOR**
+**INFORMACIÓN DEL AUTOR**
 
 > *AUTORA: Chila Quiñonez Alisson Elena*
 
@@ -8,7 +8,7 @@
 
 >ENLACE VIDEO: https://youtu.be/E1PqLLGigpU
 
-#**PROGRAMAS**
+**PROGRAMAS**
 
 **COMPARACIÓN DE DOS NÚMEROS**
 
@@ -99,7 +99,7 @@ Y también se representa en diagramas de flujo.*
 
 > While (QE_sm<QE_c) monedas y un total de monedas.
 
-##**INSTALACION**
+**INSTALACION**
 
 **Descripcion del problema**
 
@@ -125,15 +125,15 @@ https://f-droid.org
 
 > apt upgrade
 
-##•Clonar el repositorio en la máquina local
+**•Clonar el repositorio en la máquina local**
 
 > git clone https://github.com/alissonchi/ACTIVIDAD-E2/edit/main/README.md
 
-##•Acceder al repositorio
+**•Acceder al repositorio**
 
 > Cd ACTIVIDAD-E2
 
-##COPILAR Y EJECUTAR
+**COPILAR Y EJECUTAR**
 
 > g++ chilaalisson-edad.cpp -o chilaalisson-edad
 ../chilaalisson-edad
